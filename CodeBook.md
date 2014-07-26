@@ -22,7 +22,7 @@
 * tBodyAccJerk-mean()-Z,	Mean time of body acceleration jerk for Z direction
 * tBodyAccJerk-std()-X,	Standard deviation of time of body acceleration jerk for X direction.
 * tBodyAccJerk-std()-Y,	Standard deviation of time of body acceleration jerk for Y direction.
-* tBodyAccJerk-std()-Z	Standard deviation of time of body acceleration jerk for Z direction.
+* tBodyAccJerk-std()-Z,	Standard deviation of time of body acceleration jerk for Z direction.
 * tBodyGyro-mean()-X,	Mean body gyroscope measurement for X direction.
 * tBodyGyro-mean()-Y,	Mean body gyroscope measurement for Y direction.
 * tBodyGyro-mean()-Z,	Mean body gyroscope measurement for Z direction.
