@@ -2,26 +2,26 @@
 
 
 
-Variable	Descritpion
-Activity	The activity peformed.
-Subject	The ID of the subject.
-tBodyAcc-mean()-X	Mean time for acceleration of body for X direction.
-tBodyAcc-mean()-Y	Mean time for acceleration of body for Y direction.
-tBodyAcc-mean()-Z	Mean time for acceleration of body for Z direction.
-tBodyAcc-std()-X	Standard deviation of time for acceleration of body for X direction.
-tBodyAcc-std()-Y	Standard deviation of time for acceleration of body for Y direction.
-tBodyAcc-std()-Z	Standard deviation of time for acceleration of body for Z direction.
-tGravityAcc-mean()-X	Mean time of acceleration of gravity for X direction.
-tGravityAcc-mean()-Y	Mean time of acceleration of gravity for Y direction.
-tGravityAcc-mean()-Z	Mean time of acceleration of gravity for Z direction.
-tGravityAcc-std()-X	Standard deviation of time of acceleration of gravity for X direction.
-tGravityAcc-std()-Y	Standard deviation of time of acceleration of gravity for Y direction.
-tGravityAcc-std()-Z	Standard deviation of time of acceleration of gravity for Z direction.
-tBodyAccJerk-mean()-X	Mean time of body acceleration jerk for X direction.
-tBodyAccJerk-mean()-Y	Mean time of body acceleration jerk for Y direction
-tBodyAccJerk-mean()-Z	Mean time of body acceleration jerk for Z direction
-tBodyAccJerk-std()-X	Standard deviation of time of body acceleration jerk for X direction.
-tBodyAccJerk-std()-Y	Standard deviation of time of body acceleration jerk for Y direction.
+* Variable Descritpion
+* Activity, The activity peformed.
+* Subject,  The ID of the subject.
+* tBodyAcc-mean()-X, Mean time for acceleration of body for X direction.
+* tBodyAcc-mean()-Y, Mean time for acceleration of body for Y direction.
+* tBodyAcc-mean()-Z, Mean time for acceleration of body for Z direction.
+* tBodyAcc-std()-X, Standard deviation of time for acceleration of body for X direction.
+* tBodyAcc-std()-Y, Standard deviation of time for acceleration of body for Y direction.
+* tBodyAcc-std()-Z, Standard deviation of time for acceleration of body for Z direction.
+tGravityAcc-mean()-X, Mean time of acceleration of gravity for X direction.
+tGravityAcc-mean()-Y, Mean time of acceleration of gravity for Y direction.
+tGravityAcc-mean()-Z,	Mean time of acceleration of gravity for Z direction.
+tGravityAcc-std()-X,	Standard deviation of time of acceleration of gravity for X direction.
+tGravityAcc-std()-Y,	Standard deviation of time of acceleration of gravity for Y direction.
+tGravityAcc-std()-Z,	Standard deviation of time of acceleration of gravity for Z direction.
+tBodyAccJerk-mean()-X,	Mean time of body acceleration jerk for X direction.
+tBodyAccJerk-mean()-Y,	Mean time of body acceleration jerk for Y direction
+tBodyAccJerk-mean()-Z,	Mean time of body acceleration jerk for Z direction
+tBodyAccJerk-std()-X,	Standard deviation of time of body acceleration jerk for X direction.
+tBodyAccJerk-std()-Y,	Standard deviation of time of body acceleration jerk for Y direction.
 tBodyAccJerk-std()-Z	Standard deviation of time of body acceleration jerk for Z direction.
 tBodyGyro-mean()-X	Mean body gyroscope measurement for X direction.
 tBodyGyro-mean()-Y	Mean body gyroscope measurement for Y direction.
