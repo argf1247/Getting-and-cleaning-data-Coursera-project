@@ -1,5 +1,7 @@
 ## CodeBook
 
+
+
 Variable	Descritpion
 Activity	The activity peformed.
 Subject	The ID of the subject.
