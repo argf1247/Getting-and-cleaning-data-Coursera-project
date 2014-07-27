@@ -8,6 +8,10 @@ The script does the following:
 - Appropriately labels the data set with descriptive variable names.
 - Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+Uses the following libraries:
+- table.data
+- reshape2
+
 Uses the following funtions:
 - unzip, Extract files from or list a zip archive
 - setdiff, Performs set union, intersection, (asymmetric!) difference, equality and membership on two vectors
